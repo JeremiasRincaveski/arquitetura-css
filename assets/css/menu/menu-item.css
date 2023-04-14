@@ -1,0 +1,14 @@
+.menu__item {
+    list-style: none;
+    margin-right: 1rem;
+    color: grey;
+}
+
+.menu__item:first-child {
+    color: black;
+    font-weight: bold;
+}
+
+.menu__item:last-child {
+    margin-right: 0;
+}
